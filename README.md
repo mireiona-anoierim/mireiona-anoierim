@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Hi, I'm Mireia
 
-**`Data Analyst Trainee: SQL - Pandas - Power BI**
+**Data Analyst Trainee: SQL - Pandas - Power BI**
 
 👋🏻 I'm Mirella, currently developing my skills in Data Analytics while working remotely as a Data Quality Reviewer.
 
@@ -26,16 +26,17 @@
 
 ### 📚 What I've been learning
 
-- **2026 – Now | Data Analyst Training @ IT Academy (with UPC)**
-MySQL · BigQuery · NoSQL · Python · Pandas · REST APIs · Power BI
-- Database queries & cloud databases
-- Descriptive statistics · Data analysis · Data visualization
-- Power BI dashboards & reports
+**2026 – Now | Data Analyst Training @ IT Academy (with UPC)**
 
-- **2025 | M.A. in Information Science @ University of Groningen**
-  - Got into SQL and Python for Cultural Analytics.
-  - Explored topics like AI, blockchain, hate speech and digital communication.
+🗄️ MySQL · BigQuery · NoSQL · 🐍 Python · Pandas · REST APIs · 📊 Power BI
 
+📈 Descriptive Statistics · Data Analysis · Data Visualization · Dashboards & Reports
+
+**2025 | M.A. in Information Science @ University of Groningen**
+
+💻 SQL · Python for Cultural Analytics
+
+🔎 Hate Speech · Irony in Advertising · AI · Blockchain
 
 ---
 
